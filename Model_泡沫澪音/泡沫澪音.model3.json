@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "泡沫澪音.moc3",
+		"Textures": [
+			"泡沫澪音.2048/texture_00.png"
+		],
+		"Physics": "泡沫澪音.physics3.json",
+		"DisplayInfo": "泡沫澪音.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
